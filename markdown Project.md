@@ -3,7 +3,7 @@
 
 ---
 
-<h2 id="integrations">Integrations</h2>
+<h2 id="trello">Trello</h2>
 <hr>
 <p>Trello offers seamless integration with a variety of applications to enhance your project management experience. Below is a table listing some of the key applications that Trello can integrate with, along with their descriptions and links for easy access:</p>
 
