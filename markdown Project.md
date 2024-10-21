@@ -164,7 +164,7 @@
 <hr>
 <h2 id="user-interface">User Interface</h2>
 <p>Below is a screenshot of the Trello user interface, showcasing its intuitive and user-friendly design that makes project management a breeze:</p>
-<p><img src="trello_screenshot.png" alt="Trello User Interface" title="Screenshot of the Trello user interface"></p>
+<p><img src="https://images.ctfassets.net/rz1oowkt5gyp/2MToLtZAVoBYDpz18IJKB8/11524ea94eb3e8ee425f39b78a7ed8af/01_Hero_2x.png?w=1140&amp;fm=webp" alt="](trello_screenshot.png &quot;Screenshot of the Trello user interface&quot;)"></p>
 <hr>
 <h2 id="footnotes">Footnotes</h2>
 <ol>
