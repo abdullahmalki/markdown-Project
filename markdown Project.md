@@ -58,6 +58,23 @@
 </tr>
 </tbody>
 </table><hr>
+<h2 id="installation-guide">Installation Guide</h2>
+<hr>
+<h3 id="installation-steps">Installation Steps</h3>
+<ol>
+<li><strong>Download the Trello App</strong>: Visit the <a href="https://trello.com/download">Trello Download Page</a> and click on the “Download” button.</li>
+<li><strong>Run the Installer</strong>: Once the download is complete, run the installer and follow the prompts to install Trello.</li>
+<li><strong>Launch Trello</strong>: After installation, launch Trello from the Start menu (Windows) or Applications folder (macOS).</li>
+<li><strong>Sign Up or Log In</strong>: Create a new account or log in to an existing one to start using Trello.</li>
+</ol>
+<h3 id="mobile-app-installation">Mobile App Installation</h3>
+<p>To install the Trello mobile app:</p>
+<ol>
+<li><strong>Visit the App Store</strong>: Open the App Store (iOS) or Google Play Store (Android).</li>
+<li><strong>Search for Trello</strong>: Search for “Trello” in the search bar.</li>
+<li><strong>Download and Install</strong>: Click the “Get” or “Install” button to download and install the Trello app.</li>
+<li><strong>Launch the App</strong>: Once installed, launch the Trello app and sign up or log in to start using it.</li>
+</ol>
 <h2 id="user-interface">User Interface</h2>
 <p>Below is a screenshot of the Trello user interface, showcasing its intuitive and user-friendly design that makes project management a breeze:</p>
 <p><img src="trello_screenshot.png" alt="Trello User Interface" title="Screenshot of the Trello user interface"></p>
